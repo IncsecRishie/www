@@ -5,7 +5,7 @@ import asyncio
 from dhooks import Webhook
 from groq import Groq
 
-token = "MTI2NjI3OTY4NDYxMDU5Mjc4MA.GWJRTf.WpXbxAi4Z_D8na3iXtdVLAJxpk1rG6UTYqF6Bs"  ## btw this is not a discord bot token, an actual user token
+token = "MTE3MDk5NTc4Njc1NTEwMDc0Mw.GwOkQf.4b9ZbpOppwMsxTk1JEFTn98nH3j9QIG9BG6qd0"  ## btw this is not a discord bot token, an actual user token
 discord_invite_link = "https://discord.gg/9Ucxss3v"
 latest_dm_messages = {}
 
